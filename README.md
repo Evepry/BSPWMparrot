@@ -1,10 +1,10 @@
 # Script Parrot
 
-Esta es una modificacion con la adicion de teclado en latinoamericano y cambi ode fondo de pantalla, mencion de repositorio original de referencia a xJackSx
+Esta es una modificacion con la adicion de teclado en latinoamericano y cambi ode fondo de pantalla, mencion de repositorio original (https://github.com/xJackSx/BSPWMparrot.git) de referencia a xJackSx
 
 1.- Uso del Script
 
-git clone https://github.com/xJackSx/BSPWMparrot.git
+git clone https://github.com/Evepry/BSPWMparrot.git
 
 cd BSPWMparrot
 
