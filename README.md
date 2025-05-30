@@ -5,7 +5,7 @@ mencion al creador del repositorio original del cual realize la modificacion xJa
 
 Tambien una mencion al creador del reeepositorio original del cual me guie para realizar la el documento de README, yorkox0
 
-## Modificaciones relaizadas
+## Modificaciones realizadas
 
 - Se añadio la siguiente linea a <kbd> ~/.config/bspwm/bspwmrc </kbd> para reconocer teclado latinoamericano
 
@@ -17,9 +17,8 @@ setxkbmap latam
 
 - Se sustitullo en <kbd> ~/.config/sxhkd/sxhkdrc </kbd> el atajo de reinicio de bspwm
 
+### comando nuevo
 ```bash
-#comando nuevo
-
 # salir de bspwm
 super + alt + q
 	bspc quit
@@ -28,10 +27,8 @@ super + alt + q
 super + less
 	bspc wm -r
 ```
-
+### comando original
 ```bash
-#comando original
-
 # quit/restart bspwm
 super + alt + {q,r}
 	bspc {quit,wm -r}
