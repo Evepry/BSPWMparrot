@@ -1,29 +1,11 @@
-# ENV - My BSPWMkali Modificado - Script Kali
+# ENV - My BSPWMparrot Modificado - Script Parrot
 
-Este es mi arhivo de intalacion de BSPWMkali Modificado,
-inspirado en ellll repositorio BSPWMparrot
+Este es mi arhivo de intalacion de BSPWMparrot Modificado,
+mencion al creador del repositorio original del cual realize la modificacion xJackSx, el cual hace mencion honorifica a  Mr. Pr1ngl3s, por su gran colaboración. Y un saludo a S4VITAR.
 
-# Instalacion
-
-```bash
-git clone https://github.com/Evepry/BSPWMparrot.git
-```
-
-```bash
-cd BSPWMparrot
-```
-
-```bash
-chmod +x install.sh
-```
-
-```bash
-./install.sh
-```
+Tambien una mencion al creador del reeepositorio original del cual me guie para realizar la el documento de README, yorkox0
 
 ## Modificaciones realizadas
-
-- Modificacion para instalar en Kali
 
 - Se añadio la siguiente linea a <kbd> ~/.config/bspwm/bspwmrc </kbd> para reconocer teclado latinoamericano
 
@@ -53,6 +35,24 @@ super + alt + {q,r}
 ```
 
 <kbd> Nvim no esta incluida en el scripts </kbd> 
+
+# Instalacion
+
+```bash
+git clone https://github.com/Evepry/BSPWMparrot.git
+```
+
+```bash
+cd BSPWMparrot
+```
+
+```bash
+chmod +x install.sh
+```
+
+```bash
+./install.sh
+```
 
 ## Utilidades:
 - **bspwm**: Tiling Window Manager.
@@ -93,3 +93,5 @@ super + alt + {q,r}
 ## Créditos
 - Autor: Evepry
 - Inspirado en S4vitar
+# BSPWMkali
+# BSPWMkali

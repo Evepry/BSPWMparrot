@@ -10,7 +10,7 @@ ruta=$(pwd)
 
 sudo apt update
 
-sudo apt full-upgrade -y
+sudo parrot-upgrade
 
 # Instalando dependencias de Entorno
 
